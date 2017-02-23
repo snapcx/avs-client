@@ -149,5 +149,5 @@ https://status.snapcx.io
 ### Troubleshooting and API Explorer
 
 (You can use your API Key to test API end point)
-https://snapcx.io/shippingTrackingAPI
+https://snapcx.io/addressValidationAPI
 
